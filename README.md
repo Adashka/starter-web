@@ -25,4 +25,4 @@ on any web server or even local file system.
 
 ##Copyright
 
-2018 Git.Training
+2018 Git.Training. All rights reserved.
